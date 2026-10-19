@@ -1,0 +1,1 @@
+QR Code library based on Kazuhiko Arase QRCode for JavaScript, via qrcode-terminal. MIT license; see https://opensource.org/licenses/MIT. The QR Code name is a registered trademark of DENSO WAVE INCORPORATED.
